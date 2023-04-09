@@ -1,0 +1,60 @@
+#main{
+    background-color:rgb(222, 224, 226) ;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#title h1{
+ padding: 10px 0 0 0 ;   
+}
+
+#img-div{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#image{
+    max-width:100%;
+    height:auto ;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+#img-caption{
+    padding: 15px;
+}
+
+.allContent{
+    display: flex;
+    justify-content: center;
+}
+
+#tribute-info{
+    width: 55%;
+    text-align:left;
+}
+
+.allContent h2{
+    text-align: center;
+}
+
+li{
+    padding: 10px;
+    font-size: 20px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.allContent p{
+    padding-left: 25px;
+    font-style: italic
+}
+
+h3{
+    padding-bottom: 25px;
+}
+
